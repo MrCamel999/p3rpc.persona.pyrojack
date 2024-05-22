@@ -2,7 +2,7 @@
   "ModId": "p3rpc.persona.pyrojack",
   "ModName": "Pyro Jack over Jack-o\u0027-Lantern",
   "ModAuthor": "Mr. Camel999",
-  "ModVersion": "1.0.0",
+  "ModVersion": "1.0.1",
   "ModDescription": "Simply replaces Jack-o\u0027-Lanturn\u0027s name with Pyro Jack.",
   "ModDll": "",
   "ModIcon": "Preview.png",
@@ -105,6 +105,16 @@
           "ReleaseMetadataName": "UTOC.Stream.Emulator.ReleaseMetadata.json"
         }
       }
+    },
+    "GitHubRelease": {
+      "UserName": "MrCamel999",
+      "RepositoryName": "p3rpc.persona.pyrojack",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    },
+    "GameBanana": {
+      "ItemType": "Other/Misc",
+      "ItemId": 0
     }
   },
   "IsUniversalMod": false,
